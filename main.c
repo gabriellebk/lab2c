@@ -32,10 +32,10 @@ else if (grade >= 70.0) {
   printf("Your letter grade for CMPSC 131 is C.\n");
 }
 else if (grade >= 60.0) {
-  printf("Your letter grade for CMPCS 131 is D.\n");
+  printf("Your letter grade for CMPSC 131 is D.\n");
 }
 else {
-  printf("Your letter grade for CMPCS 131 is F.\n");
+  printf("Your letter grade for CMPSC 131 is F.\n");
 }
 
  return 0;
